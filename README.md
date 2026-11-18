@@ -8,7 +8,7 @@
 
 Il progetto nasce dall'esigenza di digitalizzare la **tessera socio donatore** dell'AVIS Comunale di Tradate, ancora oggi distribuita in formato cartaceo.
 
-
+![enter image description here](https://github.com/andreadevita99/AVIS-Card/blob/main/mockup.png)
 
 ---
 
